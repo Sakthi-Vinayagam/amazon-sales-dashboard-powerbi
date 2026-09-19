@@ -122,4 +122,4 @@ This project demonstrates how Power BI can be used to transform raw sales data i
 
 MBA – Finance & Business Analytics
 
-**Skills:** Power BI • Excel • SQL • Power Query • DAX • Data Analytics
+**Skills:** Power BI • Excel • Power Query • DAX • Data Analytics
