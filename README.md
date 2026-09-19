@@ -95,9 +95,8 @@ amazon-sales-dashboard-powerbi/
 
 ## 📸 Dashboard Preview
 
-> Replace the image below if your screenshot has a different file name.
+![Amazon Sales Dashboard](Amazon-sales-dashboard.png)
 
-![Amazon Sales Dashboard](Amazon%20Sales%20Dashboard.png)
 
 ---
 
